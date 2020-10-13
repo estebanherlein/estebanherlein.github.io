@@ -7,8 +7,9 @@ tags:
   - basics
   - Internet Protocols
 ---
-<h2>What is the Internet Protocol </h2>
-The internet protocol allows two computers, wherever they are, to communicate with each other.
+The internet protocol allows two devices, wherever they are, to communicate with each other.
+
+
 
 Despite being called a protocol, singularly, it is actually a set of protocols with diverse functions.
 Together, they allow devices to send information, fragment it into smaller pieces, generate telemetry and manipulate the data flow according to the needs of users, among other things.

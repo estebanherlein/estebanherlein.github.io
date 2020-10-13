@@ -8,8 +8,8 @@ tags:
 ---
 
 The Internet is a large network made up of a finite number of devices.
-
 <b>A finite but extremely large number</b>
+
 
 To order this almost incalculable number of devices and in order to solve some limitations of standardized technologies(such as IPV4 limited addresses), the division of networks into subnets is carried out.
 
