@@ -5,7 +5,7 @@ categories:
 tags:
   - Networking theory
   - basics
-  - Internet Protocols
+  - TCP/IP
 ---
 The internet protocol allows two devices, wherever they are, to communicate with each other.
 
