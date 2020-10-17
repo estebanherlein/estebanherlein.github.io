@@ -8,7 +8,7 @@ tags:
   - remote shell
 ---
 
-SSH, or secure shell, is a remote administration protocol that lets, users wherever they are, spawn a remote shell to work on their servers.
+SSH, or secure shell, is a remote administration protocol that lets users, wherever they are, spawn a remote shell to work on their servers.
 
 SSH  manages authentication of remote users and serves as an intermediary by relaying the user's input to the server and the output from the server to the user.
 
