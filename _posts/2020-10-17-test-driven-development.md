@@ -4,7 +4,6 @@ categories:
   - Blog
 tags:
   - software design patterns
-  - basics
 ---
 
 Test-driven development (TDD) involves two practices: Test First Development and Refactoring. 

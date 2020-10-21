@@ -1,15 +1,16 @@
 ---
-title: "Singleton"
+title: "Singleton creational pattern"
 categories:
   - Blog
 tags:
   - software design patterns
+  - creational patterns
 ---
 
 The singleton pattern is used to limit creation of a class to only one object. 
 
 
-<h2>When should i use it ? </h2>
+<h2>When should you use it ? </h2>
 
 This is beneficial when one (and only one) object is needed to coordinate actions across the system. There are several examples of where only a single instance of a class should exist, including caches, thread pools, and registries.
 

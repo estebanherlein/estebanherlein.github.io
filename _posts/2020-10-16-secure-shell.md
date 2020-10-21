@@ -4,7 +4,6 @@ categories:
   - Blog
 tags:
   - Networking theory
-  - basics
   - remote shell
 ---
 

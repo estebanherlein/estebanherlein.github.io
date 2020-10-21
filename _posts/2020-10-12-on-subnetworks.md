@@ -4,7 +4,6 @@ categories:
   - Blog
 tags:
   - Networking theory
-  - basics
 ---
 
 The Internet is a large network made up of a finite number of devices.

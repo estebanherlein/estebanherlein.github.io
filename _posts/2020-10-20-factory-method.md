@@ -1,9 +1,10 @@
 ---
-title: "Factory Method"
+title: "Factory Method creational pattern"
 categories:
   - Blog
 tags:
   - software design patterns
+  - creational patterns
 ---
 
 A normal factory produces goods; a software factory produces objects. 
@@ -11,7 +12,7 @@ A normal factory produces goods; a software factory produces objects.
 It does so without specifying the exact class of the object to be created. 
 
 
-<h2>When should i use it ? </h2>
+<h2>When should you use it ? </h2>
 
 Creating an object directly within the class that requires or uses the object is inflexible because it commits the class to a particular object and makes it impossible to change the instantiation independently of the class. 
 
