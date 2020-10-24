@@ -1,5 +1,5 @@
 ---
-title: "Protype creational pattern"
+title: "Prototype creational pattern"
 categories:
   - Blog
 tags:
