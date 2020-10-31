@@ -40,9 +40,9 @@ In most situations it is considered a good practice that when a bug is found and
 <li>Repeat the complete battery of tests, manually or by automation, periodically.</li>
 <li>Partial repetition based on traceability and risk analysis.</li>
 <li>Customer or user testing:<br>
-<b>Beta</b> - distribution to potential and subscribers of beta versions.<br>
-<b>Pilot</b> - distribution to a well-defined and localized subset.<br>
-<b>Parallel</b> - simultaneous use of both systems </li>
+<b>Beta</b> - distribution to potential users and subscribers of beta versions.<br>
+<b>Pilot</b> - distribution to a well-defined and localized subset of potential users.<br>
+<b>Parallel</b> - Using both types simultaneously </li>
 <li>Emergency patches - these patches are released immediately, and will be included in future releases.</li>
 
 </ul>
