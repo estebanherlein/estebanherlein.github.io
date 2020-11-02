@@ -9,4 +9,4 @@ Passionate about technology and information.
 
 At some point in my life I lost my way and spent my time accumulating wealth.
 
-Now I want to accumulate knowledge so that I can share it with whoever needs it.
+Now I want to accumulate knowledge so that I can share it with whomever needs it.
