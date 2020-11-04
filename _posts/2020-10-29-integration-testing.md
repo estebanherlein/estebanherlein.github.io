@@ -3,7 +3,7 @@ title: "Integration testing"
 categories:
   - Blog
 tags:
-  - testing software
+  - software testing
 ---
 
 A type of testing where software modules are integrated logically and tested as a group. 

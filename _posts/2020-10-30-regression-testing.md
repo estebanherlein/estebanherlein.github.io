@@ -3,7 +3,7 @@ title: "Regression testing"
 categories:
   - Blog
 tags:
-  - testing software
+  - software testing
 ---
 
 Any type of software testing done after code is changed in order to discover errors , lack of functionality, or functional differences with respect to the expected behavior of the software.

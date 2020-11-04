@@ -3,7 +3,7 @@ title: "Blackbox testing"
 categories:
   - Blog
 tags:
-  - testing software
+  - software testing
 ---
 A method of software testing that examines the functionality of an application without peering into its internal structures or workings. 
 

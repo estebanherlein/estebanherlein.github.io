@@ -3,7 +3,7 @@ title: "Acceptance testing"
 categories:
   - Blog
 tags:
-  - testing software
+  - software testing
 ---
 
 A level of software testing where a system is tested for acceptability. The purpose of this test is to evaluate the system’s compliance with the business requirements and assess whether it is acceptable for delivery.
