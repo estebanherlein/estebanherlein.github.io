@@ -1,5 +1,5 @@
 ---
-title: "Keep moving forwarad"
+title: "Keep moving forward"
 categories:
   - Blog
 tags:
