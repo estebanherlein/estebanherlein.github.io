@@ -31,7 +31,7 @@ I stress this because many teams jump into the implementation of test automation
 
 This leads to failed automation projects where teams are unprepared for the issues that present themselves and are unsatisfied with the return on their investment.
 
-<h1>What to consider? </h2>
+<h1>What to consider? </h1>
 
 Let's have a look at considerations that should be made when defining your strategy.
 
@@ -107,7 +107,7 @@ Once you find that you can trust your tests yourself move to a separate CI job t
 
 Once you are very confident in your test only then should you get them added to the development CI process it's best to realize early on that your test failures will need to be triaged and maintainedand plan for this 
 
-<h1>A test automation project is a development project</h2>
+<h1>A test automation project is a development project</h1>
 
 Remember your strategy on an automation project is a software development project and as the development of your product changes, so does your automation code.
 
