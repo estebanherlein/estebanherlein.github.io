@@ -1,9 +1,9 @@
 ---
-title: "Linux is a kernal"
+title: "Linux is a kernel"
 categories:
   - Blog
 tags:
-  - linux
+  - Linux
 ---
 
 The definition of the word Linux depends on the context in which it is used. Linux stands for the system kernel, which is the central controller of everything that happens on the computer.
