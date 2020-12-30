@@ -7,7 +7,9 @@ tags:
   - software testing
   - Dev-ops
 ---
-A huge topic but it's an important aspect of automation in DevOps, knowing some of the concepts and terminology will help you talk to your team about it.
+A huge topic, but it's an important aspect of automation in DevOps.
+
+Knowing some of the concepts and terminology will help you talk to your team about it.
 
 We'll look at ways that teams operate their production environments and respond to problems. I'm avoiding talking about specific tools since those change all the time, you should work together with your team to learn to use them.
 
