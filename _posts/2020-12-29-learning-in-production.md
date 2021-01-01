@@ -3,7 +3,6 @@ title: "Learning in production"
 categories:
   - Blog
 tags:
-  - Linux
   - software testing
   - Dev-ops
 ---
