@@ -63,10 +63,11 @@ There are twelve different types of units:
 <li><b>Device</b>: The .device units encode information regarding a device included in sysfs / udev.</li>
 <li><b>Mount</b>: .mount units encode information regarding a mount point controlled and monitored by systemd. Allows you to mount or unmount a file system</li>
 <li><b>Automount</b>: the .automount units encapsulate the automount functionalities of a file system. Each automount unit is contained in a .mount unit when an access request occurs this unit mounts the file system and gives access.</li>
-<li><b>Snapshot</b>: The .Snapshot units refer to a dynamic snapshot of the systemd execution state. They are useful to roll back to a defined state after starting / temporarily stopping services or the like.</li>
+<li><b>Snapshot</b>: The .Snapshot units refer to a dynamic snapshot of the systemd execution state. They are useful to roll back to a defined state after starting or temporarily stopping services or the like.</li>
 <li><b>Timer</b>: .timer units encode information about a timer, controlled and monitored by systemd, for timer-based triggering.</li>
 <li><b>Swap</b>: The .swap units encode the information about a mobile device or the memory paging file controlled and monitored by systemd.</li>
 <li><b>Path</b>: .path units encode information about the path monitored by systemd, for path-based activation.</li>
 <li><b>Slice</b>: The units, silica manage the processes (Scope and unit), which can be assigned to a specific sector. With the possibility of setting certain limits to the resources that are applied to all the processes of all the units that appear in that sector.</li>
 <li><b>Scope</b>: The .scope units manage a set of system processes. Unlike service units, scope units manage externally created processes, and do not fork those processes.</li>
 	
+
