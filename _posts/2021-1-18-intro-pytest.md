@@ -3,7 +3,9 @@ title: "Intro to pytest"
 categories:
   - Blog
 tags:
-  - 
+  - pytest
+  - software testing
+  - python
 ---
 
 Pytest is a testing framework based on python. It is mainly used to write API test cases. 
