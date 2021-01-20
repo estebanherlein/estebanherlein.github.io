@@ -8,11 +8,13 @@ tags:
   - python
 ---
 <hr>
-In order to test the functionality of pytest I am going to write code that works as a calculator.
+To gain experience using Pytest I am going to write code that works like a calculator.
 
-I will test its functionality using pytest.
+I will test it using pytest.
 
-Then I'm going to automate and optimize the test and delivery process.
+Then I'll automate and streamline the test and delivery process.
+
+You can find more articles of this series with the  <a href="https://estebanherlein.github.io/tags/#pytest">Pytest tag</a>  
 <hr>
 
 <h2>Pre-requisites</h2>
@@ -62,8 +64,9 @@ Right now our project will consist of a file called calculator.py which holds th
 <pre>
 <code>
 /
---calculator.py
---test_calculator.py
+--/v1
+	--calculator.py
+	--test_calculator.py
 --readme.md
 </code>
 </pre>
@@ -78,4 +81,5 @@ pytest
 </code>
 </pre>
 
+If you only want to run the tests for the files located on the V1 folder you can change the current path of your cli to that folder to run the command from there.
 
