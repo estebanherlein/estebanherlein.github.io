@@ -81,5 +81,5 @@ pytest
 </code>
 </pre>
 
-If you only want to run the tests for the files located on the V1 folder you can change the current path of your cli to that folder to run the command from there.
+If you only want to run the tests located on the V1 folder you can change the current path of your cli to that folder to run the command from there.
 

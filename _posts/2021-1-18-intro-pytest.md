@@ -70,13 +70,13 @@ python -m pytest -h
 
 <h2> Fixtures </h2>
 
-Software test fixtures initialize test functions. 
+Test fixtures initialize test functions. 
 
 They provide a fixed baseline so that tests execute reliably and produce consistent, repeatable, results. 
 
-Initialization may setup services, state, or other operating environments. T
+Initialization may setup services, state, or other operating environments. 
 
-hese are accessed by test functions through arguments; for each fixture used by a test function there is typically a parameter (named after the fixture) in the test function’s definition.
+These are accessed by test functions through arguments; for each fixture used by a test function there is typically a parameter (named after the fixture) in the test function’s definition.
 
 pytest fixtures offer dramatic improvements over the classic xUnit style of setup/teardown functions:
 
