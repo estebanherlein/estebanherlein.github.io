@@ -141,8 +141,8 @@ def inputsanitization(x, y):
 
 This will let us test each function against min, max and out of bounds values.
 
+our code looks like this right now
 
-So this is how our code looks right now
 <pre>
 <code>
 @pytest.mark.parametrize("first_input,second_input,expected",
