@@ -5,8 +5,6 @@ categories:
 tags:
   - flutter
 ---
-<pre><code></code></pre>
-
 
 Every app has a main() function. To display text on the console, you can use the top-level print() function:
 
