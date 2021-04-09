@@ -4,6 +4,7 @@ categories:
   - Blog
 tags:
   - Data structures
+  - Algorithms
 ---
 
 
