@@ -18,8 +18,6 @@ PSRs (PHP Standards Recommendations) define a set of standards that facilitate a
 
 <h2>Who defines the PSRs?</h2>
 
-PHP standards are defined by the PHP -FIG (PHP-Framework Interop Group), a group that was born at the 2009 php | tek conference.
-
 PHP-FIG aims to promote the PHP ecosystem and define standards based on research, experimentation and above all on real world experience, to facilitate collaboration between programmers and projects.
 
 Members of PHP-FIG are people, projects and organizations known and recognized in the PHP world. 
