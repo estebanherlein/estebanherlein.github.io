@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Software design anti-pattern
-  - Methodological anti-pattern
+  - Organizational anti-pattern
 ---
 
 Bikeshedding occurs when a development team spends a disproportionate amount of time and effort on a trivial or unimportant detail of a system, such as the color of a bikeshed.
