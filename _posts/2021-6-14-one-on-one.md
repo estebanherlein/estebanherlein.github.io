@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Talent Management
-  - 1:1
+  - 1 on 1
 ---
 
 A 1:1 meeting (pronounced one-on-one or one-to-one meeting) is a regular check-in between two people in an organization – typically a manager and an employee. It’s used to give feedback, keep each other in the loop, resolve issues, and help the participants grow in their roles.
