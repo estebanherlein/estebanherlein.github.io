@@ -18,7 +18,7 @@ tags:
 </ul></li>
 <li>Put developers into integrated teams of no more than 12 self-sustaining members.</li>
 <li>Have all developers commit code to the main trunk frequently, with no long-running feature branches.</li>
-<li>Consistently adopt a build system such as Maven or Gradle acrossyour organization and standardize builds.</li>
+<li>Consistently adopt a build system such as Maven or Gradle across your organization and standardize builds.</li>
 <li>Have developers build unit tests toward 100% coverage of the codebase</li>
 <li>Ensure that unit tests are 70% of the overall testing in duration, number,and scope.</li>
 <li>Ensure that unit tests are up-to-date and not neglected. Unit test failures should be fixed, not bypassed.</li>
@@ -27,7 +27,8 @@ tags:
 <ul>
 <li>Monitor/track every resource possible.</li>
 <li>Alert on services, availability, and response times.</li>
-<li>Capture, learn, and improve.oShare access with everyone on the team.</li>
+<li>Capture, learn, and improve.</li>
+<li>Share access with everyone on the team.</li>
 <li>Plan metrics and monitoring into the lifecycle.</li>
 </ul></li>
 <li>Keep and track standard metrics.
