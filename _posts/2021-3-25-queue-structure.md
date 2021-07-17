@@ -3,7 +3,7 @@ title: "Queue data structure"
 categories:
   - Blog
 tags:
-  - Data structures
+  - Data Structures
 ---
 We can define the queue data structure as a restrictive linear FIFO (first in firstout) type structure, this indicates that the first element that entered the queue must be the first to exit.
 

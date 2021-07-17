@@ -3,7 +3,7 @@ title: "Serverless architecture"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
 ---
 

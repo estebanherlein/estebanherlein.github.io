@@ -3,8 +3,8 @@ title: "Measuring the value of test automation"
 categories:
   - Blog
 tags:
-  - software testing
-  - bug hunting
+  - Software Testing
+  - Bug Hunting
 ---
 
 

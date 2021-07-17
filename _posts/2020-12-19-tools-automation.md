@@ -3,8 +3,8 @@ title: "Test automation tools"
 categories:
   - Blog
 tags:
-  - software testing
-  - bug hunting
+  - Software Testing
+  - Bug Hunting
 ---
 
 You have already defined your strategy for test  automation, you've put practices in place to build a culture that supports your  strategy.

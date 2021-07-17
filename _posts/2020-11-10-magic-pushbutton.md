@@ -3,8 +3,8 @@ title: "Magic pushbutton"
 categories:
   - Blog
 tags:
-  - Software design anti-pattern
-  - Software design anti-pattern
+  - Software Design Anti-Patterns
+  - Software Design Anti-Patterns
 ---
 
 A common anti-pattern in graphical user interfaces.

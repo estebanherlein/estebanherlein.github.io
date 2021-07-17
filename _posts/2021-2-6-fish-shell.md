@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Linux
-  - Shell essentials
+  - Shell Essentials
 ---
 
 Friendly interactive shell (abbreviated as fish) is the name of a Unix shell that is intended to be interactive and user-friendly, unlike other shells.

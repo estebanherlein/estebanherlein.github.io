@@ -3,7 +3,7 @@ title: "Whitebox testing"
 categories:
   - Blog
 tags:
-  - software testing
+  - Software Testing
 ---
 
 In white-box testing an internal perspective of the system, as well as programming skills, are used to design test cases.

@@ -3,7 +3,7 @@ title: "Layer 7 (HTTP) Load Balancing"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
   - Cloud Design Patterns
 ---

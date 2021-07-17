@@ -3,7 +3,7 @@ title: "Intuitive expertise"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 

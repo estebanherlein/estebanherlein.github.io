@@ -3,7 +3,7 @@ title: "What is version control?"
 categories:
   - Blog
 tags:
-  - software testing
+  - Software Testing
   - Dev-ops
 ---
  

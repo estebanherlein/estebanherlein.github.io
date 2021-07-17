@@ -3,7 +3,7 @@ title: "Simultaneous games"
 categories:
   - Blog
 tags:
-  - Game theory
+  - Game Theory
 ---
 
 In game theory, a simultaneous game or static game is a game where each player chooses their action without knowledge of the actions chosen by other players. 

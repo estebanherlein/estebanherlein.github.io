@@ -3,7 +3,7 @@ title: "Cycle time"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
 ---
 

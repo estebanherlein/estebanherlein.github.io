@@ -3,8 +3,8 @@ title: "Challenges of remote training"
 categories:
   - Blog
 tags:
-  - training
-  - teaching
+  - Training
+  - Teaching
 ---
 
 <h2>Lack of face-to-face supervision </h2>

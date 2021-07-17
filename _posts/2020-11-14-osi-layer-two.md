@@ -3,7 +3,7 @@ title: "OSI model, Data link layer "
 categories:
   - Blog
 tags:
-  - Networking theory
+  - Networking Theory
   - OSI model
 ---
 

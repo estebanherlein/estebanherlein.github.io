@@ -3,7 +3,7 @@ title: "Sequential games"
 categories:
   - Blog
 tags:
-  - Game theory
+  - Game Theory
 ---
 
 In game theory, a sequential game is a game where one player chooses their action before the others choose theirs.

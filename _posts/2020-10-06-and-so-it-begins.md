@@ -3,7 +3,7 @@ title: "And so it begins"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 > Any sufficiently advanced technology is indistinguishable from magic.

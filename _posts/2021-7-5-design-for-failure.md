@@ -3,7 +3,7 @@ title: "Design for failure"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
 ---
 

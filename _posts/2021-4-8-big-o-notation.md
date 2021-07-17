@@ -3,7 +3,7 @@ title: "Big O notation"
 categories:
   - Blog
 tags:
-  - Data structures
+  - Data Structures
   - Algorithms
 ---
 

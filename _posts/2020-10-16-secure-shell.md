@@ -3,8 +3,7 @@ title: "Secure Shell"
 categories:
   - Blog
 tags:
-  - Networking theory
-  - remote shell
+  - Networking Theory
 ---
 
 SSH, or secure shell, is a remote administration protocol that lets users, wherever they are, spawn a remote shell to work on their servers.

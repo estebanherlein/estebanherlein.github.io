@@ -3,7 +3,7 @@ title: "Blue/Green deployment"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
 ---
 

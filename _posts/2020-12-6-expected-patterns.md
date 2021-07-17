@@ -3,7 +3,7 @@ title: "Breaking out of expected patterns"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 > "Creativity involves breaking out of expected patterns in order to look at things in a different way."

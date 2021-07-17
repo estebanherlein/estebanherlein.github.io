@@ -3,8 +3,8 @@ title: "Learn how to teach"
 categories:
   - Blog
 tags:
-  - training
-  - teaching
+  - Training
+  - Teaching
 ---
 
 It doesn't matter what you do. Good teaching practices are important. 

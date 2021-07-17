@@ -3,7 +3,7 @@ title: "Input kludge"
 categories:
   - Blog
 tags:
-  - Software design anti-pattern
+  - Software Design Anti-Patterns
 ---
 
 An input kludge is a type of failure in software (an anti-pattern) where simple user input is not handled. 

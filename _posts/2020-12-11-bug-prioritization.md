@@ -3,7 +3,7 @@ title: "Bug prioritization"
 categories:
   - Blog
 tags:
-  - software testing
+  - Software Testing
 ---
 
 

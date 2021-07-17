@@ -3,7 +3,7 @@ title: "CI/CD Teams"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
 ---
 

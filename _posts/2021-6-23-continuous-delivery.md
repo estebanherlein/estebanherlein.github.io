@@ -3,7 +3,7 @@ title: "Continuous Delivery"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
 ---
 One misconception about continuous delivery is that it means every change committed is applied to production immediately after passing automated tests. However, the point of continuous deliveryis not to apply every change to production immediately, but to ensure that every change is ready to go to production.

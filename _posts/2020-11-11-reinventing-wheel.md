@@ -3,8 +3,8 @@ title: "Reinventing the square wheel"
 categories:
   - Blog
 tags:
-  - Software design anti-pattern
-  - Methodological anti-pattern
+  - Software Design Anti-Patterns
+  - Methodological Anti-Patterns
 ---
 
 

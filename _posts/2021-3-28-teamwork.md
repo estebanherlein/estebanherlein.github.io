@@ -3,7 +3,7 @@ title: "Teamwork"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 

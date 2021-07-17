@@ -3,7 +3,7 @@ title: "Bug Prevention and Defensive Programming"
 categories:
   - Blog
 tags:
-  - debugging
+  - Debugging
 ---
 
 Surprisingly, the debugging process may take significantly more time than writing the code in the first place. A large amount (if not most) of the development of a piece of software goes into debugging and maintaining the code, rather than writing it.

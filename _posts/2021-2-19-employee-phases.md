@@ -3,7 +3,7 @@ title: "Phases of employee experience"
 categories:
   - Blog
 tags:
-  - training
+  - Training
 ---
 
 Priorities and concerns of employees are constantly evolving throughout their time at your company. 

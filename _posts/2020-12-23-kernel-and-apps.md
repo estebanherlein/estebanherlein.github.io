@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Linux
-  - Shell essentials
+  - Shell Essentials
 ---
 
 The kernel of the operating system is like an air traffic controller at an airport, and the applications are the airplanes under its control. The kernel decides which program gets which blocks of memory, it starts and kills applications, and it handles displaying text or graphics on a monitor.

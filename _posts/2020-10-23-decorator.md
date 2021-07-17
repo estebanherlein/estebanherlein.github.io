@@ -3,8 +3,8 @@ title: "Decorator structural pattern"
 categories:
   - Blog
 tags:
-  - software design patterns
-  - structural patterns
+  - Software Design Patterns
+  - Structural Patterns
 ---
 
 Extending a class is the first thing that comes to mind when you need to alter an object’s behavior. 

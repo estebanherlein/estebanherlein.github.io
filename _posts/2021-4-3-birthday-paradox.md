@@ -3,7 +3,7 @@ title: "Birthday problem"
 categories:
   - Blog
 tags:
-  - Probability theory
+  - Probability Theory
 ---
 
 The birthday problem or birthday paradox concerns the probability that, in a set of n randomly chosen people, some pair of them will have the same birthday. 

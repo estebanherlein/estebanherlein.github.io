@@ -3,9 +3,9 @@ title: "Code review: What are you reviewing for?"
 categories:
   - Blog
 tags:
-  - software testing
-  - bug hunting
-  - teaching
+  - Software Testing
+  - Bug Hunting
+  - Teaching
   - Quality Assurance
 ---
 

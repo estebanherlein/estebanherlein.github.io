@@ -3,8 +3,8 @@ title: "Yo-yo problem"
 categories:
   - Blog
 tags:
-  - Software design anti-pattern
-  - Object-oriented programming anti-pattern
+  - Software Design Anti-Patterns
+  - Object-oriented Programming Anti-Patterns
 ---
 
 In software development, the yo-yo problem is an anti-pattern that occurs when a programmer has to read and understand a program whose inheritance graph is so long and complicated that the programmer has to keep flipping between many different class definitions in order to follow the control flow of the program. It often happens in object-oriented programming. The term comes from comparing the bouncing attention of the programmer to the up-down movement of a toy yo-yo. 

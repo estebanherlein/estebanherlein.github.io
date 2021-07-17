@@ -3,7 +3,7 @@ title: "Game theory"
 categories:
   - Blog
 tags:
-  - Game theory
+  - Game Theory
 ---
 
 Game theory studies interactive decision-making, where the outcome for each participant or "player" depends on the actions of all. 
@@ -14,7 +14,7 @@ But in thinking about their choices, you must recognize that they are thinking a
 
 It would seem that such thinking about thinking must be so complex and subtle that its successful practice must remain an arcane art.
 
-Indeed, some aspects such as figuring out the true motives of rivals and recognizing complex patterns do often resist logical analysis. But many aspects of strategy can be studied and systematized into a science -- game theory.
+Indeed, some aspects such as figuring out the true motives of rivals and recognizing complex patterns do often resist logical analysis. But many aspects of strategy can be studied and systematized into a science -- Game Theory.
 
 Game theory is the process of modeling the strategic interaction between two or more players in a situation containing set rules and outcomes.
 

@@ -3,7 +3,7 @@ title: "External Configuration Store pattern"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
   - Cloud Design Patterns
 ---

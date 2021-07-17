@@ -3,7 +3,7 @@ title: "Cooperative and non-cooperative games"
 categories:
   - Blog
 tags:
-  - Game theory
+  - Game Theory
 ---
 
 Although there are many types (e.g., symmetric/asymmetric, simultaneous/sequential, et al.) of game theories, cooperative and non-cooperative game theories are the most common. 

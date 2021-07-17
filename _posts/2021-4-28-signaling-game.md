@@ -3,7 +3,7 @@ title: "Signaling game"
 categories:
   - Blog
 tags:
-  - Game theory
+  - Game Theory
 ---
 A signaling game is a simple type of a dynamic Bayesian game.
 

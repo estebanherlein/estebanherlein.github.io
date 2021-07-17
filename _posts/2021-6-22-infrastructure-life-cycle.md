@@ -3,7 +3,7 @@ title: "Infrastructure Resource Lifecycle"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
 ---
 

@@ -3,8 +3,8 @@ title: "Premature optimization"
 categories:
   - Blog
 tags:
-  - Software design anti-pattern
-  - Methodological anti-pattern
+  - Software Design Anti-Patterns
+  - Methodological Anti-Patterns
 ---
 
 A phrase used to describe a situation where a programmer lets performance considerations affect the design of a piece of code. 

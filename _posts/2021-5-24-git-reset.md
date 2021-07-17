@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Dev-ops
-  - Version control
+  - Version Control
   - git
 ---
 

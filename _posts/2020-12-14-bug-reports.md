@@ -3,8 +3,8 @@ title: "What is a bug report?"
 categories:
   - Blog
 tags:
-  - software testing
-  - bug hunting
+  - Software Testing
+  - Bug Hunting
 ---
 
 If bugs occur (which they certainly do), the person finding the bug should be able to report (document & send) the bug to people in charge of fixing that error or failure.

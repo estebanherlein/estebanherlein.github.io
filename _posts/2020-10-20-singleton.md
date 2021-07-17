@@ -3,8 +3,8 @@ title: "Singleton creational pattern"
 categories:
   - Blog
 tags:
-  - software design patterns
-  - creational patterns
+  - Software Design Patterns
+  - Creational Patterns
 ---
 
 The singleton pattern is used to limit creation of a class to only one object. 

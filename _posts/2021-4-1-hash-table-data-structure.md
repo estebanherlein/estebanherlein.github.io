@@ -3,7 +3,7 @@ title: "Hash table data Structure"
 categories:
   - Blog
 tags:
-  - Data structures
+  - Data Structures
 ---
 
 In computing, a hash table (hash map) is a data structure that implements an associative array abstract data type, a structure that can map keys to values. 

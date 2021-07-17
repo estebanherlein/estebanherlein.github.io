@@ -3,7 +3,7 @@ title: "Even the finest sword"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 > “Even the finest sword plunged into salt water will eventually rust.”

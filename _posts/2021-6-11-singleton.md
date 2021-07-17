@@ -3,8 +3,8 @@ title: "Singleton Anti Pattern"
 categories:
   - Blog
 tags:
-  - Software design anti-pattern
-  - Object-oriented programming anti-pattern
+  - Software Design Anti-Patterns
+  - Object-oriented Programming Anti-Patterns
 ---
 
 In software engineering, the singleton pattern is a software design pattern that restricts the instantiation of a class to one "single" instance. This is useful when exactly one object is needed to coordinate actions across the system. The term comes from the mathematical concept of a singleton.

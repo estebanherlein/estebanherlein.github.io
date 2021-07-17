@@ -3,7 +3,7 @@ title: "Continuous Deployment"
 categories:
   - Blog
 tags:
-  - software testing
+  - Software Testing
   - Dev-ops
 ---
 

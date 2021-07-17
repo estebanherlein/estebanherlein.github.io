@@ -3,7 +3,7 @@ title: "Infrastructure as code"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
 ---
 

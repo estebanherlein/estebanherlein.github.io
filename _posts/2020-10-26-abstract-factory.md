@@ -3,8 +3,8 @@ title: "Abstract Factory creational pattern"
 categories:
   - Blog
 tags:
-  - software design patterns
-  - creational patterns
+  - Software Design Patterns
+  - Creational Patterns
 ---
 
 Abstract Factory is a creational design pattern that lets you produce families of related objects without specifying their concrete classes.

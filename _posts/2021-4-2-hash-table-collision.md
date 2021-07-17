@@ -3,7 +3,7 @@ title: "Hash tables, solving collisions"
 categories:
   - Blog
 tags:
-  - Data structures
+  - Data Structures
 ---
 
 Hash collisions are practically unavoidable when hashing a random subset of a large set of possible keys. For example, if 2,450 keys are hashed into a million buckets, even with a perfectly uniform random distribution, according to the birthday problem there is approximately a 95% chance of at least two of the keys being hashed to the same slot.

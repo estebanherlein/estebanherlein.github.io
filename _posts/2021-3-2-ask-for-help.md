@@ -3,8 +3,8 @@ title: "How to ask for help"
 categories:
   - Blog
 tags:
-  - training
-  - learning
+  - Training
+  - Learning
 ---
 
 Few of us enjoy asking for help. 

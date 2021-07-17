@@ -3,7 +3,7 @@ title: "Debugging strategies"
 categories:
   - Blog
 tags:
-  - debugging
+  - Debugging
 ---
 
 Although there is no precise procedure for fixing all bugs, there are a number of useful strategies that can reduce the debugging effort. 

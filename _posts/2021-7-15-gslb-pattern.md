@@ -3,7 +3,7 @@ title: "Global Server Load Balancing (GSLB)"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
   - Cloud Design Patterns
 ---

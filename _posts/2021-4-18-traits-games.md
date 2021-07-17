@@ -3,7 +3,7 @@ title: "Defining traits of a game"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 

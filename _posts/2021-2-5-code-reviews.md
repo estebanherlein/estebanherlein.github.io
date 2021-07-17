@@ -3,8 +3,8 @@ title: "Performing code reviews"
 categories:
   - Blog
 tags:
-  - quality-assurance
-  - software testing
+  - Quality Assurance
+  - Software Testing
 ---
 
 

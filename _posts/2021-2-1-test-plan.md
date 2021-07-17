@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Quality Assurance
-  - software testing
+  - Software Testing
 ---
 
 A test plan is a document detailing the objectives, resources, and processes for a specific test for a software or hardware product. The plan typically contains a detailed understanding of the eventual workflow. 

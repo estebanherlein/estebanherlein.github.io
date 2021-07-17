@@ -3,7 +3,7 @@ title: "Command and Query Responsibility Segregation (CQRS)"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
   - Cloud Design Patterns
 ---

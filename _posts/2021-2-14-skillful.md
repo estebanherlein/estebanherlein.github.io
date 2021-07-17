@@ -3,7 +3,7 @@ title: "Skillful"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 > “The greater the difficulty, the more glory in surmounting it. Skillful pilots gain their reputation from storms and tempests. ”

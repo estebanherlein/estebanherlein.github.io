@@ -3,8 +3,8 @@ title: "Template method behavioral pattern"
 categories:
   - Blog
 tags:
-  - software design patterns
-  - behavioral patterns
+  - Software Design Patterns
+  - Behavioral Patterns
 ---
 The Template Method pattern suggests that you break down an algorithm into a series of steps, turn these steps into methods, and put a series of calls to these methods inside a single template method. 
 

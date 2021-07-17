@@ -3,7 +3,7 @@ title: "Shared learning"
 categories:
   - Blog
 tags:
-  - training
+  - Training
 ---
 
 Establishing a culture of peers training peers

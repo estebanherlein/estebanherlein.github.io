@@ -3,8 +3,8 @@ title: "The 4 Ws of bug reporting "
 categories:
   - Blog
 tags:
-  - software testing
-  - bug hunting
+  - Software Testing
+  - Bug Hunting
 ---
 
 Like police inspectors, we as developers rely on evidences which we gather through asking the right questions. A well-executed bug reporting strategy will bring answer to these questions.

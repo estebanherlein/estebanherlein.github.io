@@ -3,8 +3,8 @@ title: "Prototype creational pattern"
 categories:
   - Blog
 tags:
-  - software design patterns
-  - creational patterns
+  - Software Design Patterns
+  - Creational Patterns
 ---
 
 The Prototype pattern delegates the cloning process to the actual objects that are being cloned.

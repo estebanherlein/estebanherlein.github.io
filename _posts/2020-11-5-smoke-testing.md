@@ -3,7 +3,7 @@ title: "Smoke testing"
 categories:
   - Blog
 tags:
-  - software testing
+  - Software Testing
 ---
 
 A test suite that covers the main functionality of a component or system to determine whether it works properly before planned testing begins, also known as “Build Verification Testing”.

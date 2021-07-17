@@ -3,8 +3,8 @@ title: "How To Get and Keep Online Learners’ Attention"
 categories:
   - Blog
 tags:
-  - training
-  - teaching
+  - Training
+  - Teaching
 ---
 
 Although we are all different and our experiences when learning differ, we can define a series of methods and / or practices that allow us to capture and retain the attention of the majority of our interlocutors 

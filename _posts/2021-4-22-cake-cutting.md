@@ -3,7 +3,7 @@ title: "Fair cake-cutting"
 categories:
   - Blog
 tags:
-  - Game theory
+  - Game Theory
 ---
 
 Fair cake-cutting is a kind of fair division problem. The problem involves a heterogeneous resource, such as a cake with different toppings, that is assumed to be divisible – it is possible to cut arbitrarily small pieces of it without destroying their value. The resource has to be divided among several partners who have different preferences over different parts of the cake, i.e., some people prefer the chocolate toppings, some prefer the cherries, some just want as large a piece as possible. The division should be unanimously fair - each person should receive a piece that he or she believes to be a fair share.

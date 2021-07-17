@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - pytest
-  - software testing
+  - Software Testing
   - python
 ---
 <hr>

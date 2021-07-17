@@ -3,8 +3,8 @@ title: "Overengineering"
 categories:
   - Blog
 tags:
-  - Software design anti-pattern
-  - Project management anti-pattern
+  - Software Design Anti-Patterns
+  - Project Management Anti-Pattern
 ---
 
 Overengineering (or over-engineering, or over-kill) is the act of designing a product to be more robust or have more features than often necessary for its intended use, or for a process to be unnecessarily complex or inefficient.

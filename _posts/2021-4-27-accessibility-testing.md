@@ -3,7 +3,7 @@ title: "Accessibility Testing"
 categories:
   - Blog
 tags:
-  - software testing
+  - Software Testing
   -
 ---
 

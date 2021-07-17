@@ -3,7 +3,7 @@ title: "Concealed talent"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 > “Concealed talent brings no reputation.”

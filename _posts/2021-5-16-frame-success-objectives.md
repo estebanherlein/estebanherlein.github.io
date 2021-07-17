@@ -3,7 +3,7 @@ title: "Clearly frame success"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 

@@ -3,7 +3,7 @@ title: "Bug Severity vs Priority in Testing"
 categories:
   - Blog
 tags:
-  - software testing
+  - Software Testing
 ---
 
 

@@ -3,7 +3,7 @@ title: "Social Learning Theory"
 categories:
   - Blog
 tags:
-  - training
+  - Training
 ---
 
 Social learning theory, proposed by Albert Bandura, emphasizes the importance of observing, modelling, and imitating the behaviors, attitudes, and emotional reactions of others. 

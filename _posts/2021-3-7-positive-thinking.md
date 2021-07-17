@@ -3,7 +3,7 @@ title: "The Coué method"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 > “Every day, in every way, I'm getting better and better”

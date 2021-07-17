@@ -3,7 +3,7 @@ title: "Troubleshoot and Fix Your Code"
 categories:
   - Blog
 tags:
-  - debugging
+  - Debugging
 ---
  
 The process of troubleshooting and fixing the bugs in your code isn’t intuitive to anyone who hasn’t spent a long time learning to code.

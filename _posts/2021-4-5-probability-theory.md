@@ -3,7 +3,7 @@ title: "Probability theory"
 categories:
   - Blog
 tags:
-  - Probability theory
+  - Probability Theory
 ---
 
 Probability theory is the branch of mathematics concerned with probability. 

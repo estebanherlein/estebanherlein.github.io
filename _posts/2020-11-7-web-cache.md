@@ -3,7 +3,7 @@ title: "Web cache"
 categories:
   - Blog
 tags:
-  - Networking theory
+  - Networking Theory
 ---
 
 A device for the temporary storage (caching) of Web documents (such as Web pages, images, and other types of Web multimedia) to reduce server lag.

@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Linux
-  - Shell essentials
+  - Shell Essentials
 ---
 
 Once a user has entered a command, the terminal then accepts what the user has typed and passes it to a shell. 

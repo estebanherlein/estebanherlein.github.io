@@ -3,8 +3,8 @@ title: "Factory Method creational pattern"
 categories:
   - Blog
 tags:
-  - software design patterns
-  - creational patterns
+  - Software Design Patterns
+  - Creational Patterns
 ---
 
 A normal factory produces goods; a software factory produces objects. 

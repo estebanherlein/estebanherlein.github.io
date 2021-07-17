@@ -3,8 +3,8 @@ title: "Test automation culture"
 categories:
   - Blog
 tags:
-  - software testing
-  - bug hunting
+  - Software Testing
+  - Bug Hunting
 ---
 
 Test automation is most successful when there is collaboration amongst different team members: the product owners, business analysts,  developers, testers and of course automation engineers.

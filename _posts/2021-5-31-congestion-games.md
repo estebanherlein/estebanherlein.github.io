@@ -3,7 +3,7 @@ title: "Congestion games"
 categories:
   - Blog
 tags:
-  - Game theory
+  - Game Theory
 ---
 
 Congestion games are a class of games in game theory first proposed by American economist Robert W. Rosenthal in 1973. 

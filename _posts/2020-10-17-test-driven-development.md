@@ -3,7 +3,7 @@ title: "Test Driven Development"
 categories:
   - Blog
 tags:
-  - software design patterns
+  - Software Design Patterns
 ---
 
 Test-driven development (TDD) involves two practices: Test First Development and Refactoring. 

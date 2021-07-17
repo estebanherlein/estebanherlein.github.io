@@ -3,9 +3,9 @@ title: "Code Review List of Objectives"
 categories:
   - Blog
 tags:
-  - software testing
-  - bug hunting
-  - teaching
+  - Software Testing
+  - Bug Hunting
+  - Teaching
   - Quality Assurance
 ---
 

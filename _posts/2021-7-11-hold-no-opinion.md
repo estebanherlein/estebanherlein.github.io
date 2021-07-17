@@ -3,7 +3,7 @@ title: "Hold No Opinions"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 > “ The Tao is not difficult

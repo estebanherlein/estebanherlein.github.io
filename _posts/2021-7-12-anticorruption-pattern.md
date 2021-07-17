@@ -3,7 +3,7 @@ title: "Anti-Corruption Layer pattern"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
   - Cloud Design Patterns
 ---

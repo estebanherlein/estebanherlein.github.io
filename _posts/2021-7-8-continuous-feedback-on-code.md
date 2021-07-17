@@ -3,9 +3,9 @@ title: "Continuous Feedback on Code"
 categories:
   - Blog
 tags:
-  - software testing
-  - bug hunting
-  - teaching
+  - Software Testing
+  - Bug Hunting
+  - Teaching
   - Quality Assurance
 ---
 

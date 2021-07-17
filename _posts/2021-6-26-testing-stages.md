@@ -3,7 +3,7 @@ title: "Testing Stages"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
 ---
 

@@ -3,8 +3,7 @@ title: "The Internet Protocol"
 categories:
   - Blog
 tags:
-  - Networking theory
-  - TCP/IP
+  - Networking Theory
 ---
 The internet protocol allows two devices, wherever they are, to communicate with each other.
 

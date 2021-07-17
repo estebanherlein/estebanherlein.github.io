@@ -3,7 +3,7 @@ title: "You learn by doing and by falling over"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 

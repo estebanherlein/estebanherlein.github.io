@@ -3,7 +3,7 @@ title: "Bayesian game"
 categories:
   - Blog
 tags:
-  - Game theory
+  - Game Theory
 ---
 
 In game theory, a Bayesian game is a game in which players have incomplete information about the other players. 

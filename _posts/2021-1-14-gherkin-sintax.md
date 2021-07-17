@@ -3,8 +3,8 @@ title: "Gherkin Sintax"
 categories:
   - Blog
 tags:
-  - behavior driven development
-  - software testing
+  - Behavior Driven Development
+  - Software Testing
 ---
 
 Gherkin uses a set of special keywords to give structure and meaning to executable specifications. 

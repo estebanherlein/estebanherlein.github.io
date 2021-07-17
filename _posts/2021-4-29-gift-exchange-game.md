@@ -3,7 +3,7 @@ title: "Gift exchange game"
 categories:
   - Blog
 tags:
-  - Game theory
+  - Game Theory
 ---
 
 The gift-exchange game is a game that has been introduced by Akerlof and Yellen to model labor relations. Two players are at least involved in such game – an employee and an employer. The employer has to decide first, whether to award a higher salary.

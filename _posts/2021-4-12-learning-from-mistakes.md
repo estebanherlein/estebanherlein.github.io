@@ -3,9 +3,9 @@ title: "Learning from mistakes"
 categories:
   - Blog
 tags:
-  - training
+  - Training
   - Management
-  - learning
+  - Learning
 ---
 
  People see success as positive and failure as a negative. Failure isn't a bad thing. You can learn, grow and evolve from your past mistakes. In business, failure is an all too common occurrence. After all, nine out of 10 small businesses will fail.

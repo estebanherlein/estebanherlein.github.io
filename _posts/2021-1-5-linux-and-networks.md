@@ -4,9 +4,9 @@ categories:
   - Blog
 tags:
   - Linux
-  - Shell essentials
+  - Shell Essentials
   - Dev-ops
-  - Networking theory
+  - Networking Theory
 ---
  
 Having access to the network is a key feature of most Linux systems. Users want to surf the net, send and receive email and transfer files with other users.

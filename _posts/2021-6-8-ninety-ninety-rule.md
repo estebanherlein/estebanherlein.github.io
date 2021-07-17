@@ -3,8 +3,8 @@ title: "Ninety–ninety rule"
 categories:
   - Blog
 tags:
-  - Software design anti-pattern
-  - Project management anti-pattern
+  - Software Design Anti-Patterns
+  - Project Management Anti-Pattern
 ---
 
 The “ninety-ninety” rule states that the first 90 percent of code construction uses up 90 percent of development time, and that the remaining 10 percent of code construction accounts for another 90 percent. With a total adding up to 180 percent, this IT saying is clearly satirical.

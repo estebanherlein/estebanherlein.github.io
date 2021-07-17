@@ -3,7 +3,7 @@ title: "Dictionary data Structure"
 categories:
   - Blog
 tags:
-  - Data structures
+  - Data Structures
 ---
 
 A dictionary represents an unordered collection of keys and values. The Dictionary data type is optimized for fast lookup of values.

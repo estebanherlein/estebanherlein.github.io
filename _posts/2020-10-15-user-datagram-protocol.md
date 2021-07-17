@@ -3,8 +3,7 @@ title: "User Datagram Protocol"
 categories:
   - Blog
 tags:
-  - Networking theory
-  - UDP
+  - Networking Theory
 ---
 
 UDP is a transport layer protocol that serves as an alternative to TCP.

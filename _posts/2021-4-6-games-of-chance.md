@@ -3,7 +3,7 @@ title: "Games of chance"
 categories:
   - Blog
 tags:
-  - Probability theory
+  - Probability Theory
 ---
 
 Games of chance hold an honored place in probability theory, because of their conceptual clarity and because of their fundamental influence on the early development of the subject. 

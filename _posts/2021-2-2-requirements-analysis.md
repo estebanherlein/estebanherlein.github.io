@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Quality Assurance
-  - software testing
+  - Software Testing
 ---
 
 Requirement Analysis, also known as Requirement Engineering, is the process of defining user expectations for a new software being built or modified. 

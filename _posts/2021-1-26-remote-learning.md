@@ -3,8 +3,8 @@ title: "Remote Learning"
 categories:
   - Blog
 tags:
-  - training
-  - teaching
+  - Training
+  - Teaching
 ---
 
 Remote learning is the process of teaching and learning performed at a distance. 

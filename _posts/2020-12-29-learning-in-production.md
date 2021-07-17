@@ -3,7 +3,7 @@ title: "Learning in production"
 categories:
   - Blog
 tags:
-  - software testing
+  - Software Testing
   - Dev-ops
 ---
 A huge topic, but it's an important aspect of automation in DevOps.

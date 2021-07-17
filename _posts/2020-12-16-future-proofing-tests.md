@@ -3,8 +3,8 @@ title: "Future proofing test automation"
 categories:
   - Blog
 tags:
-  - software testing
-  - bug hunting
+  - Software Testing
+  - Bug Hunting
 ---
 
 Without a clear strategy in mind, many teams make the mistake of automating their tests for their current situation.

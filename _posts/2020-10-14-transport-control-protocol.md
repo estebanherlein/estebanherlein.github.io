@@ -3,8 +3,7 @@ title: "Transport Control Protocol"
 categories:
   - Blog
 tags:
-  - Networking theory
-  - TCP/IP
+  - Networking Theory
 ---
 
 If a tree falls in a forest and no one is around to hear it, does it make a sound?

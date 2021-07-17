@@ -3,7 +3,7 @@ title: "Transforming an enemy into a friend"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 

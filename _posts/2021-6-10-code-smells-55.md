@@ -3,8 +3,8 @@ title: "Object Orgy"
 categories:
   - Blog
 tags:
-  - Software design anti-pattern
-  - Object-oriented programming anti-pattern
+  - Software Design Anti-Patterns
+  - Object-oriented Programming Anti-Patterns
 ---
 
 In computer programming, an object orgy is a situation in which objects are insufficiently encapsulated via information hiding, allowing unrestricted access to their internals. 

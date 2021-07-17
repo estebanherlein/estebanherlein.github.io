@@ -3,8 +3,8 @@ title: "What is Learning?"
 categories:
   - Blog
 tags:
-  - training
-  - teaching
+  - Training
+  - Teaching
 ---
 
 Almost every action we take is the result of past learning yet, for some people, learning still remains an activity undertaken in, or associated with, an educational context.  

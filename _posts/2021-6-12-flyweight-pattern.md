@@ -3,8 +3,8 @@ title: "Flyweight pattern"
 categories:
   - Blog
 tags:
-  - software design patterns
-  - structural patterns
+  - Software Design Patterns
+  - Structural Patterns
 ---
 
 In computer programming, the flyweight software design pattern refers to an object that minimizes memory usage by sharing some of its data with other similar objects. 

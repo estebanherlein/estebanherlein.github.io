@@ -3,7 +3,7 @@ title: "OSI model, Application Layer "
 categories:
   - Blog
 tags:
-  - Networking theory
+  - Networking Theory
   - OSI model
 ---
 

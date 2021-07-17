@@ -3,7 +3,7 @@ title: "OSI model, Session Layer "
 categories:
   - Blog
 tags:
-  - Networking theory
+  - Networking Theory
   - OSI model
 ---
 

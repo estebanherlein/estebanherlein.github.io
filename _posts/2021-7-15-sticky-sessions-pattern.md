@@ -3,7 +3,7 @@ title: "Sticky Sessions & SSL"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
   - Cloud Design Patterns
 ---

@@ -3,9 +3,9 @@ title: "Producer-consumer problem"
 categories:
   - Blog
 tags:
-  - software design patterns
-  - bug hunting
-  - behavioral patterns
+  - Software Design Patterns
+  - Bug Hunting
+  - Behavioral Patterns
 ---
 
 The producer-consumer problem is a classic example of a multiprocess synchronization problem. The program describes two processes, producer and consumer, both share a finite size buffer. 

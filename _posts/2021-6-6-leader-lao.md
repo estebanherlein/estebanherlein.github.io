@@ -3,7 +3,7 @@ title: "We did this ourselves"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 > “A leader is best<br />

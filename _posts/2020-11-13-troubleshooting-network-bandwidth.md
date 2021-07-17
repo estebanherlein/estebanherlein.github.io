@@ -3,7 +3,7 @@ title: "Troubleshooting network bandwidth"
 categories:
   - Blog
 tags:
-  - Networking theory
+  - Networking Theory
 ---
 
 Performance issues tend to arise when networks grow unplanned.

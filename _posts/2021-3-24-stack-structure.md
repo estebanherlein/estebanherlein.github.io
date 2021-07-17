@@ -3,7 +3,7 @@ title: "Stack data structure "
 categories:
   - Blog
 tags:
-  - Data structures
+  - Data Structures
 ---
 
 We can define the stack data structure as a linear restrictive structure of type LIFO (last in first out), this indicates that the last element that entered the stack must be the first to exit. 

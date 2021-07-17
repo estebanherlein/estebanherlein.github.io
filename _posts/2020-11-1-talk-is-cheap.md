@@ -3,7 +3,7 @@ title: "Talk is cheap"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 > “Talk is cheap. Show me the code.” 

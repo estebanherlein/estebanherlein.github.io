@@ -3,7 +3,7 @@ title: "CI/CD Best Practices"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
 ---
 <h2>Do</h2>

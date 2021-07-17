@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - git
-  - Version control
+  - Version Control
 ---
 
 

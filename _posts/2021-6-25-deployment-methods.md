@@ -3,7 +3,7 @@ title: "Deployment Methods"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
 ---
 

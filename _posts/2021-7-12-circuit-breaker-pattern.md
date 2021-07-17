@@ -3,7 +3,7 @@ title: "Circuit Breaker"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
   - Cloud Design Patterns
 ---

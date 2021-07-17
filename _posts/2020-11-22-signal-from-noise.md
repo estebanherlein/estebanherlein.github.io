@@ -3,7 +3,7 @@ title: "Extract signal from noise"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 > “As data scientists, our job is to extract signal from noise.”

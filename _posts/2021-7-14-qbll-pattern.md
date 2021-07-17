@@ -3,7 +3,7 @@ title: "Queue-based load leveling"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
   - Cloud Design Patterns
 ---

@@ -3,7 +3,7 @@ title: "When should you not use Blue/Green deployment?"
 categories:
   - Blog
 tags:
-  - Devops
+  - Dev-ops
   - AWS
 ---
 

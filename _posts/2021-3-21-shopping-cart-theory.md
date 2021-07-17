@@ -3,7 +3,7 @@ title: "Shopping cart theory"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 

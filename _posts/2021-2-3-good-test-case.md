@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Quality Assurance
-  - software testing
+  - Software Testing
 ---
 
 

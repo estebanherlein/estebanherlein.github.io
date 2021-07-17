@@ -3,8 +3,8 @@ title: "Designing a test automation strategy "
 categories:
   - Blog
 tags:
-  - software testing
-  - bug hunting
+  - Software Testing
+  - Bug Hunting
 ---
 
 Let's take a moment to consider what is your goal for starting a test automation initiative and what is it that you want to accomplish, who do you envision participating in your test automation initiative and in what capacity and how do you plan for the execution of this strategy 

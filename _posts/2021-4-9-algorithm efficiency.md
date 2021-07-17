@@ -3,7 +3,7 @@ title: "Algorithm efficiency"
 categories:
   - Blog
 tags:
-  - Data structures
+  - Data Structures
   - Algorithms
 ---
 

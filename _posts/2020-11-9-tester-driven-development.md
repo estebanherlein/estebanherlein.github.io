@@ -3,8 +3,8 @@ title: "Tester driven development"
 categories:
   - Blog
 tags:
-  - Software design anti-pattern
-  - Methodological anti-pattern
+  - Software Design Anti-Patterns
+  - Methodological Anti-Patterns
 ---
 
 In software engineering, tester-driven development or bug-driven development, is an anti-pattern where the requirements are determined by bug reports or test results rather than, for example, the value or cost of a feature. 

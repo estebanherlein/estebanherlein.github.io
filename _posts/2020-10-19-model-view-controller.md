@@ -3,7 +3,7 @@ title: "Model - view - controller"
 categories:
   - Blog
 tags:
-  - software design patterns
+  - Software Design Patterns
 ---
 
 Model-view-controller , also known as MVC, is a software design pattern that separates the business logic from the user interface and the code that manages interactions between them.

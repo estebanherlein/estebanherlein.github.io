@@ -3,7 +3,7 @@ title: "Prisoner's dilemma"
 categories:
   - Blog
 tags:
-  - Game theory
+  - Game Theory
 ---
 
 The prisoner's dilemma is a paradox in decision analysis in which two individuals acting in their own self-interests do not produce the optimal outcome. 

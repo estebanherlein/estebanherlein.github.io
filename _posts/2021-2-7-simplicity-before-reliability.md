@@ -3,7 +3,7 @@ title: "Simplicity"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 >  “Simplicity is prerequisite for reliability.” 

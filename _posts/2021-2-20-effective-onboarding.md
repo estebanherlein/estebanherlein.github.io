@@ -3,7 +3,7 @@ title: "Making an effective onboarding"
 categories:
   - Blog
 tags:
-  - training
+  - Training
 ---
 
 By “onboarding” I don’t mean the first day or week or month you start a new job and complete paperwork, learn where the bathroom is, and how to file expense reports.

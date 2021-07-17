@@ -3,7 +3,7 @@ title: "Complete information"
 categories:
   - Blog
 tags:
-  - Game theory
+  - Game Theory
 ---
 
 In economics and game theory, complete information is an economic situation or game in which knowledge about other market participants or players is available to all participants. The utility functions (including risk aversion), payoffs, strategies and "types" of players are thus common knowledge. 

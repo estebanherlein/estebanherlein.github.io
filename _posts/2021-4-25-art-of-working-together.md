@@ -3,7 +3,7 @@ title: "The art of working together"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 

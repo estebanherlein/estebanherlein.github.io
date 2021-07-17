@@ -3,8 +3,8 @@ title: "Types of remote training"
 categories:
   - Blog
 tags:
-  - training
-  - teaching
+  - Training
+  - Teaching
 ---
 
 

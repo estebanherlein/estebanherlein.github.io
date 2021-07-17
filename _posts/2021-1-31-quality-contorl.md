@@ -3,7 +3,7 @@ title: "Quality Control"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 >  Quality control starts and ends with training.

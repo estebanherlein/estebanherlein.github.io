@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Linux
-  - Shell essentials
+  - Shell Essentials
 ---
 
 In Linux, everything is considered a file.

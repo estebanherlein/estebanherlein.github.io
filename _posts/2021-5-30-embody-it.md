@@ -3,7 +3,7 @@ title: "Embody it"
 categories:
   - Blog
 tags:
-  - quote
+  - Sunday Quote
 ---
 
 > “Don't explain your philosophy. Embody it.”

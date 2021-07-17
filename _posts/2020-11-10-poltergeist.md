@@ -3,8 +3,8 @@ title: "Poltergeist"
 categories:
   - Blog
 tags:
-  - Software design anti-pattern
-  - Object-oriented programming anti-pattern
+  - Software Design Anti-Patterns
+  - Object-oriented Programming Anti-Patterns
 ---
 
 A poltergeist  is a short-lived, typically stateless object, used to perform initialization or to invoke methods in another more permanent class. 
