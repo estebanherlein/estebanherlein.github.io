@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Dev-ops
-  - AWS
+  - Cloud Native
 ---
 <h2>Do</h2>
 <ul>

@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Dev-ops
-  - AWS
+  - Cloud Native
 ---
 
 Infrastructure as Code means a way of provisioning resources in a repeatable and consistent manner.  

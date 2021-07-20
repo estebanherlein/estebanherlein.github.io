@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Dev-ops
-  - AWS
+  - Cloud Native
 ---
 
 Infrastructure as Code (IaC) is the management of infrastructure (networks, virtual machines, load balancers, and connection topology) in a descriptive model, using the same versioning as DevOps team uses for source code.

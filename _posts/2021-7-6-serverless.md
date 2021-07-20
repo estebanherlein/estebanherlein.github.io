@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Dev-ops
-  - AWS
+  - Cloud Native
 ---
 
 Serverless architectures are application designs that incorporate third-party “Backend as a Service” (BaaS) services, and/or that include custom code run in managed, ephemeral containers on a “Functions as a Service” (FaaS) platform.

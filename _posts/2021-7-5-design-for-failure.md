@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Dev-ops
-  - AWS
+  - Cloud Native
 ---
 
 The concept of “Design for Failure” is often used to describe the approach that assumes that there will be a hardware or system failure somewhere, sometime – and instead of architecting for hardware and server clustering and availability, to design applications so that recovery can be performed quickly.
@@ -25,7 +25,7 @@ Monoliths can be built to be as transparent as a microservice - in fact, they sh
 
 Microservice teams would expect to see sophisticated monitoring and logging setups for each individual service such as dashboards showing up/down status and a variety of operational and business relevant metrics. Details on circuit breaker status, current throughput and latency are other examples we often encounter in the wild.
 
-<h2>How can this be traslated to AWS? </h2>
+<h2>How can this be traslated ? </h2>
 
 In the approach to modernise applications to take advantage of Cloud – there are considerations to take into account the re-design of the application to support underlying failures in the Cloud subsystems. This means;
 <ul>

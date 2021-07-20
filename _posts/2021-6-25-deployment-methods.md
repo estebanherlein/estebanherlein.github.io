@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Dev-ops
-  - AWS
+  - Cloud Native
 ---
 
 You can consider multiple deployment strategies and variations for rolling out new versions of software in a Continuous Delivery process. The most common deployment methods are: 

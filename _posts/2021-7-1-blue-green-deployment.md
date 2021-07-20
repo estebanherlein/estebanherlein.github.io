@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Dev-ops
-  - AWS
+  - Cloud Native
 ---
 
 Blue/green deployment is a technique for releasing applications  by shifting  traffic between two identical  environments running  different versions of the application. Blue/green deployments can mitigate common risks associated with deploying software,such as downtime and rollback capability. This paper provides an overview of the blue/green deployment methodology  and describes techniques customers can implement using Amazon Web Services (AWS) services and tools. 

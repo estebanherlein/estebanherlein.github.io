@@ -5,6 +5,7 @@ categories:
 tags:
   - Dev-ops
   - AWS
+  - Cloud Native
 ---
 
 AWS recommends organizing three developer teams for implementinga CI/CD environment:

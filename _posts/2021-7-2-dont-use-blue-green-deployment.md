@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Dev-ops
-  - AWS
+  - Cloud Native
 ---
 
 As blue/green deployments become more popular, developers and companies are constantly applying the methodology to new and innovative use cases. 
