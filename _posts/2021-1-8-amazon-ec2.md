@@ -5,6 +5,7 @@ categories:
 tags:
   - Dev-ops
   - Cloud Computing
+  - AWS
 ---
 
 

@@ -5,6 +5,7 @@ categories:
 tags:
   - Dev-ops
   - Cloud Native
+  - AWS
 ---
 
 The three CI/CD teams should incorporate testing into the software development lifecycle at the different stages of the CI/CD pipeline. 
