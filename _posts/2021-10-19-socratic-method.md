@@ -7,7 +7,7 @@ tags:
   - Learning
 ---
 
-The Socratic method (also known as method Socratic debate) is a form of cooperative argumentative dialogue between individuals, based on asking and answering questions to stimulate critical thinking and to draw out ideas and underlying presuppositions. 
+The Socratic method (also known as Socratic debate) is a form of cooperative argumentative dialogue between individuals, based on asking and answering questions to stimulate critical thinking and to draw out ideas and underlying presuppositions. 
 
 The Socratic method is a method of hypothesis elimination, in that better hypotheses are found by steadily identifying and eliminating those that lead to contradictions.
 
