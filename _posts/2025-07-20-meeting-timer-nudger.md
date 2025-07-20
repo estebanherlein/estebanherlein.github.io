@@ -47,8 +47,8 @@ Running interviews well is about respect for the candidate, respect for your own
 
 If you run structured interviews or any meetings that need to stay on track, you might find this helpful too.
 
-👉 Link to GitHub:
+👉 Link to GitHub: [Look at the repo](https://github.com/estebanherlein/TinyTools/tree/main/Meeting%20Timer%20Nudger)
 
-👉 Live version:
+👉 Live Demo: [Try it live](https://htmlpreview.github.io/?https://github.com/estebanherlein/TinyTools/blob/main/Meeting%20Timer%20Nudger/meetingTimerNudger.html). 
 
 If you try it, let me know how it goes, or if you have ideas for improving it, I’d love your feedback.
