@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Esteban Herlein"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Addicted to discovering, learning and understanding technologies."
+  bio    : "Software Engineer - MBA Candidate - Building simple, effective tools to multiply impact"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
